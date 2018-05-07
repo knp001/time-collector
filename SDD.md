@@ -64,7 +64,7 @@ App functionality
 
 
 ### Time overview
-- [ ] Have a way select project
+- [ ] Have a way to select project
 - [ ] Display total used hours
 - [ ] Display expected hour usage
 - [ ] Have a way to edit hours
